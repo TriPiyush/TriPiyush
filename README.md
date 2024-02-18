@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TriPiyush
 - 👀 I’m interested in Web Developemnt 
-- 🌱 I’m currently learning React & Angular
+- 🌱 I’m currently working on React & Node and Blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tripathyprince1993@gmail.com
 
